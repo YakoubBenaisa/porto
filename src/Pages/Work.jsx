@@ -76,7 +76,7 @@ const RecentWorks = () => {
       {/* Background doodles */}
       <div className="absolute inset-0 opacity-10 pointer-events-none">
         <img
-          src="src/assets/doodles.svg"
+          src="assets/doodles.svg"
           alt="Background doodles"
           className="w-full h-full object-cover"
         />
