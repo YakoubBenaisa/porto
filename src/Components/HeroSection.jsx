@@ -18,7 +18,7 @@ const HeroSection = () => {
             </button>
           </a>
           <a 
-            href="/CV.pdf" // Adjust this path based on the file in your public folder
+            href="assets/CV.pdf" // Adjust this path based on the file in your public folder
             download="My_CV.pdf" // Customize the file name
             className="bg-gray-700 px-6 py-3 rounded-md text-white font-medium hover:bg-gray-600"
           >
@@ -30,7 +30,7 @@ const HeroSection = () => {
       {/* Right Section: Illustration */}
       <div className="flex-1 flex justify-center py-[100px]">
         <img 
-          src="src/assets/coolguy.svg" 
+          src="assets/coolguy.svg" 
           alt="Creative Developer Illustration" 
           className="max-w-full h-auto ml-[150px]"
         />

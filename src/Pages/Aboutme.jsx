@@ -24,7 +24,7 @@ const AboutSection = () => {
       <div className="flex-1 relative flex justify-center items-center">
         {/* Person Illustration */}
         <img
-          src="src/assets/abt.svg"
+          src="assets/abt.svg"
           alt="Person Illustration"
           className="z-10 max-w-sm sm:max-w-md"
         />

@@ -30,7 +30,7 @@ const ContactSection = () => {
           </h2>
           <div className="flex justify-center">
             <img
-              src="src/assets/cntct.png" // Replace with your image path
+              src="assets/cntct.png" // Replace with your image path
               alt="Illustration"
               className="max-w-xs"
             />
